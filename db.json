@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Which shape shows thirds?",
+      "conditions": "Choose the right answer",
+      "image": "/img/task_img.png",
+      "correct": "A",
+      "options": [
+        {
+          "id": 1,
+          "value": "A"
+        },
+        {
+          "id": 2,
+          "value": "B"
+        },
+        {
+          "id": 3,
+          "value": "C"
+        }
+      ]
+    }
+  ]
+}
